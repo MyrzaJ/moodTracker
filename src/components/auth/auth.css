@@ -1,0 +1,25 @@
+.Auth{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+    background: rgb(85, 217, 226);
+}
+/* .Auth > div{
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+} */
+ /* .avtor{
+    color: #fff;
+    text-align: center;
+} */
+
+.form1{
+    background: #eee;
+    box-shadow: 2px 2px 2px 2px(0, 0, 0, .5);
+    padding: 15px;
+    border-radius: 5px;
+}
+
